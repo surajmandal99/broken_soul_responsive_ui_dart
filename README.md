@@ -1,11 +1,11 @@
-# Responsive_ui_dart 🧑‍🎓
+# responsive_ui_dart
 
-A new Flutter project UI . 🤽‍♂️
+A new Flutter UI for the Broken_Soul 🪄💔 .
 
-## Getting Started 
+## Getting Started
 
 This is simple UI of dashborad for the broken soul (^///^).
-It's just a simple design of UI which is responsible for the multiple devices  and it is implemented with the logic of some conditional statement and calculations  of the length and the width which make it responsible for the multiple devices and it behaves diffently on different device such as Desktop,Machbook,Android and Ios.. 🤞💻
+It's just a simple design of UI which is responsible for the multiple devices  and it is implemented with the logic of some conditional statement and calculations  of the lenght and the width which make it responsible for the multiple devices and it behaves diffently on different device such as Desktop,Machbook,Android and Ios..
 
 
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
