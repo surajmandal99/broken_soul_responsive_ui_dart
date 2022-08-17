@@ -8,7 +8,7 @@ class MyTile extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: Container(
-        color: Colors.blue,
+        color: Colors.blueAccent,
         height: 70,
       ),
     );
