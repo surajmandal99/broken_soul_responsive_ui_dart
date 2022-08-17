@@ -13,5 +13,11 @@ It's just a simple design of UI which is responsible for the multiple devices  a
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+For Androids  🤖
 
 ![dashborad dart](https://user-images.githubusercontent.com/105273927/185207556-31010a2a-84e4-4c00-89ab-045894a91c9c.png)
+
+
+
+For Desktop 🖥 
+![desktop](https://user-images.githubusercontent.com/105273927/185208587-f8285fb8-96ac-4d61-8350-db4c479870c4.png)
