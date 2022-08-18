@@ -1,11 +1,12 @@
 # responsive_ui_dart
 
-A new Flutter UI Dashboard for the Broken_Soul 🪄💔 .
+##A new Flutter UI Dashboard for the Broken_Soul 🪄💔 .
 
 ## Getting Started
 
 This is simple UI of dashborad for the broken soul (^///^).
-It's just a simple design of UI which is responsible for the multiple devices  and it is implemented with the logic of some conditional statement and calculations  of the lenght and the width which make it responsible for the multiple devices and it behaves diffently on different device such as Desktop,Machbook,Android and Ios..
+It's just a simple design of UI which is responsible for the multiple devices  and it is implemented with the logic of some conditional statement and calculations  of the lenght and the width which make it responsible for the multiple devices and it behaves diffently on different device such as  
+# Desktop,Machbook,Android and Ios..
 
 For Android  🪄
 
