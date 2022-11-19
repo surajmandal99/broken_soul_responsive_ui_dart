@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-This is simple UI of dashborad for the broken soul (^///^).
+# This is simple UI of dashborad for the broken soul (^///^).
 It's just a simple design of UI which is responsible for the multiple devices  and it is implemented with the logic of some conditional statement and calculations  of the lenght and the width which make it responsible for the multiple devices and it behaves diffently on different device like ->
                    👇 
                    
